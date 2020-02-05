@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: sentiment_analysis/resource/sample_g_play_data.html
+  checksum: 2a0fe930d321f49dfff004a032ddb839680d0af8718fefd195836858711c8c26
+  ignore_detectors: []
+scopeconfig: []
